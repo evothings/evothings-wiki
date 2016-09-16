@@ -1,6 +1,8 @@
-# EvoThings Wiki
+# This repository is no longer maintained
 
-Welcome!
+Please visit http://evothings.com for up-to-date information on creating mobilke apps for the Internet of Things.
+
+## Wiki
 
 This wiki centers around the development of mobile apps that connects to things. It aims to describe  relevant available tools in the form of hardware or software, and methods used in this context.
 
